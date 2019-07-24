@@ -2,7 +2,7 @@
 
 Random snippets of code for making your life easier.
 
-## Create Project Shorcuts
+## Create Project Shortcuts
 
 Create project shortcuts is a simple util for generating command line shortcuts to your project folders.
 
