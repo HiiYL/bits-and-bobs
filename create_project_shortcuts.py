@@ -72,4 +72,4 @@ with open(output_file, 'w') as f:
     f.writelines(to_write)
 
 print("{} entries written".format(len(project_shortcuts)))
-print("note(*): To work correctly, ensure 'source {}' is added to your .bash_profile".format(output_file))
+print("note(*): To be added automatically on every launch, ensure 'source {}' is added to your .bash_profile".format(output_file))
