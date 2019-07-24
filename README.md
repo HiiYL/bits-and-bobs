@@ -19,4 +19,4 @@ The script splits project names by capital letters and underscores `_`.
 1. Edit the `project_roots` array in the script to point to the folders containing your projects.
 2. Run the script `python create_project_shortcuts.py`
 3. Load the generated shortcuts into your shell using `source ~/.project_shortcuts`.
-4. (optional) have it added at every launch by adding `source ~/.project_shortcuts` to your `~\.bash_profile`.
+4. (optional) have it added at every launch by adding `source ~/.project_shortcuts` to your `~/.bash_profile`.
